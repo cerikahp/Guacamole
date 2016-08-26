@@ -4,8 +4,6 @@ Guacamole
 -Aguacate
 -Jitomate
 -Ajo
--Chile
--Limon
+-limon
 -cebolla
--cilantro
-
+-chile
