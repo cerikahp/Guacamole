@@ -1,14 +1,14 @@
 Guacamole
 ======
 
--Aguacate
+ -Aguacate
 
--Jitomate
+ -Jitomate
 
--Ajo
+ -Ajo
 
--limon
+ -limon
 
--cebolla
+ -cebolla
 
--chile
+ -chile
